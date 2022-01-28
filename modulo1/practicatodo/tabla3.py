@@ -1,5 +1,5 @@
-# Generar la tabla de multiplicar del 3.
-
+# Generar la tabla de multiplicar toda.
+print("")
 numero = int(input("introduxca un numero"))
 
 for i in range(1, 13):
